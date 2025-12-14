@@ -1,0 +1,9 @@
+__pycache__/
+corpora*
+nlp_cleaned.csv
+nlp_train.html
+nltk_data/
+nlp-getting-started/
+slang.txt
+techniques.py
+preprocess.py
