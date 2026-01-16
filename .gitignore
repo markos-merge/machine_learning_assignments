@@ -13,3 +13,4 @@ logs_dqn/
 logs_ppo/
 monitor_dqn_logs/
 monitor_ppo_logs/
+*.csv
